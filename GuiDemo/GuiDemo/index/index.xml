@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rtgui version="1.0">
+  <class>Page</class>
+  <widget class="Page" name="index">
+    <property name="background">
+      <a>255</a>
+      <r>0</r>
+      <g>0</g>
+      <b>64</b>
+    </property>
+    <widgets>
+      <widget name="label_tip" class="label">
+        <property name="text">
+          <string>clock</string>
+        </property>
+        <property name="rect">
+          <x>31</x>
+          <y>178</y>
+          <width>419</width>
+          <height>22</height>
+        </property>
+        <property name="align">
+          <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+        </property>
+        <property name="background">
+          <a>0</a>
+          <r>212</r>
+          <g>208</g>
+          <b>200</b>
+        </property>
+        <property name="foreground">
+          <a>255</a>
+          <r>255</r>
+          <g>255</g>
+          <b>255</b>
+        </property>
+      </widget>
+      <widget name="menu" class="CarouselImage" bindchange="onChange" bindtap="onTap">
+        <property name="direction">
+          <enum>HORIZONTAL</enum>
+        </property>
+        <property name="norSize">
+          <number>120</number>
+        </property>
+        <property name="showNum">
+          <number>7</number>
+        </property>
+        <property name="zoom">
+          <number>50</number>
+        </property>
+        <property name="images">
+          <image>deskclock.png</image>
+          <image>button.png</image>
+          <image>weather.png</image>
+          <image>wifi.png</image>
+          <image>video.png</image>
+          <image>fire.png</image>
+          <image>setting.png</image>
+        </property>
+        <property name="strings">
+          <string>clock</string>
+          <string>button</string>
+          <string>weather</string>
+          <string>wifi</string>
+          <string>video</string>
+          <string>fire</string>
+          <string>setting</string>
+        </property>
+        <property name="rect">
+          <x>20</x>
+          <y>106</y>
+          <width>440</width>
+          <height>60</height>
+        </property>
+        <property name="background">
+          <a>0</a>
+          <r>212</r>
+          <g>208</g>
+          <b>200</b>
+        </property>
+      </widget>
+    </widgets>
+  </widget>
+</rtgui>

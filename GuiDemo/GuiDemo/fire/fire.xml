@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rtgui version="1.0">
+  <class>Page</class>
+  <widget class="Page" name="fire">
+    <widgets>
+      <widget name="button1" class="button" bindtap="onTap">
+        <property name="text">
+          <string>back</string>
+        </property>
+        <property name="norImg">
+          <string>btn_nor.9.png</string>
+        </property>
+        <property name="downImg">
+          <string>btn_sel.9.png</string>
+        </property>
+        <property name="rect">
+          <x>377</x>
+          <y>23</y>
+          <width>80</width>
+          <height>30</height>
+        </property>
+        <property name="align">
+          <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+        </property>
+      </widget>
+      <widget name="label1" class="label">
+        <property name="text">
+          <string>Fire</string>
+        </property>
+        <property name="rect">
+          <x>52</x>
+          <y>57</y>
+          <width>243</width>
+          <height>22</height>
+        </property>
+      </widget>
+    </widgets>
+  </widget>
+</rtgui>

@@ -1,0 +1,98 @@
+[0219/082644.268:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/082644.268:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0219/082644.273:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/082644.273:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0219/082658.616:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/082658.616:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0219/085406.646:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/085406.646:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0219/085555.189:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/085555.189:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0219/085601.439:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/085601.439:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0219/085607.258:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/085607.258:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0219/085612.534:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/085612.534:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0219/085622.324:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/085622.324:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0219/085641.418:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/085641.418:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0219/092230.562:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0219/092230.562:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0221/131431.053:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0221/131431.076:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0221/131431.453:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0221/131431.624:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.631:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.631:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.642:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.642:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.643:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.644:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.644:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.644:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131431.644:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131433.359:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131433.359:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/131434.133:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0221/131434.133:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0221/131434.136:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0221/131434.136:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0221/131436.390:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/131436.391:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/131446.596:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0221/131446.596:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0221/133319.486:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/133627.763:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/133627.763:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0221/133627.895:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0221/133627.895:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0221/133628.518:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/133628.518:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/133651.124:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/134743.093:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/135347.520:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/135407.792:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/135719.569:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/140324.352:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/140836.515:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/141311.144:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/141631.877:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/141856.073:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/142245.859:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0221/142801.894:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)

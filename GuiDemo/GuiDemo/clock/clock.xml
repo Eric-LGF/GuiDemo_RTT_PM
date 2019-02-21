@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rtgui version="1.0">
+  <class>Page</class>
+  <widget class="Page" name="clock">
+    <widgets>
+      <widget name="label2" class="label">
+        <property name="rect">
+          <x>171</x>
+          <y>106</y>
+          <width>294</width>
+          <height>22</height>
+        </property>
+      </widget>
+      <widget name="Clock1" class="Clock">
+        <property name="hour">
+          <string>H.png</string>
+        </property>
+        <property name="minute">
+          <string>M.png</string>
+        </property>
+        <property name="second">
+          <string>S.png</string>
+        </property>
+        <property name="center">
+          <string>C.png</string>
+        </property>
+        <property name="time">
+          <number>0</number>
+        </property>
+        <property name="rect">
+          <x>10</x>
+          <y>83</y>
+          <width>146</width>
+          <height>146</height>
+        </property>
+        <property name="backgroundImg">
+          <string>clock.png</string>
+        </property>
+      </widget>
+      <widget name="button1" class="button" bindtap="onTap">
+        <property name="text">
+          <string>back</string>
+        </property>
+        <property name="norImg">
+          <string>btn_nor.9.png</string>
+        </property>
+        <property name="downImg">
+          <string>btn_sel.9.png</string>
+        </property>
+        <property name="rect">
+          <x>374</x>
+          <y>26</y>
+          <width>80</width>
+          <height>30</height>
+        </property>
+        <property name="align">
+          <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+        </property>
+      </widget>
+      <widget name="label1" class="label">
+        <property name="text">
+          <string>Clock</string>
+        </property>
+        <property name="rect">
+          <x>96</x>
+          <y>30</y>
+          <width>189</width>
+          <height>22</height>
+        </property>
+      </widget>
+    </widgets>
+  </widget>
+</rtgui>
