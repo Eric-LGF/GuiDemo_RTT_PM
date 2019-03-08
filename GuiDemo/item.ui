@@ -1,0 +1,91 @@
+
+  <Object type="Library.custompanel, Library, Version=1.0.6983.32488, Culture=neutral, PublicKeyToken=null" name="custompanel1" children="Controls">
+    <Object type="Library.label, Library, Version=1.0.6983.32488, Culture=neutral, PublicKeyToken=null" name="label1" children="Controls">
+      <Property name="PmWidget">
+        <Property name="Align">MiddleLeft</Property>
+        <Property name="font">点阵</Property>
+        <Property name="FontSize">16</Property>
+        <Property name="Opacity">255</Property>
+        <Property name="PathBackImage">
+        </Property>
+        <Property name="Visibled">False</Property>
+        <Property name="X">2</Property>
+        <Property name="Y">1</Property>
+        <Property name="_Height">20</Property>
+        <Property name="_Name">label1</Property>
+        <Property name="_Width">172</Property>
+        <Property name="BkColor">255,255,255,255</Property>
+        <Property name="FrColor">255,0,0,0</Property>
+      </Property>
+      <Property name="Textd">label1</Property>
+      <Property name="AllowDrop">True</Property>
+      <Property name="BackColor">255, 255, 255</Property>
+      <Property name="BackgroundImageLayout">Center</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Location">2, 1</Property>
+      <Property name="Name">label1</Property>
+      <Property name="Size">172, 20</Property>
+      <Property name="TabIndex">1</Property>
+    </Object>
+    <Object type="Library.imagebox, Library, Version=1.0.6983.32488, Culture=neutral, PublicKeyToken=null" name="imagebox1" children="Controls">
+      <Property name="PmWidget">
+        <Property name="Align">TopLeft</Property>
+        <Property name="font">点阵</Property>
+        <Property name="FontSize">16</Property>
+        <Property name="Opacity">255</Property>
+        <Property name="PathBackImage">
+        </Property>
+        <Property name="Visibled">False</Property>
+        <Property name="X">176</Property>
+        <Property name="Y">1</Property>
+        <Property name="_Height">20</Property>
+        <Property name="_Name">imagebox1</Property>
+        <Property name="_Width">20</Property>
+        <Property name="BkColor">255,255,255,255</Property>
+        <Property name="FrColor">255,0,0,0</Property>
+      </Property>
+      <Property name="MSImage">
+        <Binary>AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19vcmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhwb3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgBAQEBCQIAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQoPAgAAAAAAAAACCw==</Binary>
+      </Property>
+      <Property name="ImagePath">
+      </Property>
+      <Property name="AllowDrop">True</Property>
+      <Property name="SizeMode">CenterImage</Property>
+      <Property name="TabStop">False</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="BackColor">255, 255, 255</Property>
+      <Property name="BackgroundImageLayout">Center</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Location">176, 1</Property>
+      <Property name="Name">imagebox1</Property>
+      <Property name="Size">20, 20</Property>
+    </Object>
+    <Property name="PmWidget">
+      <Property name="Align">TopLeft</Property>
+      <Property name="font">点阵</Property>
+      <Property name="FontSize">16</Property>
+      <Property name="Opacity">255</Property>
+      <Property name="PathBackImage">
+      </Property>
+      <Property name="Visibled">False</Property>
+      <Property name="X">15</Property>
+      <Property name="Y">15</Property>
+      <Property name="_Height">22</Property>
+      <Property name="_Name">item</Property>
+      <Property name="_Width">200</Property>
+      <Property name="BkColor">255,255,255,255</Property>
+      <Property name="FrColor">255,0,0,0</Property>
+    </Property>
+    <Property name="BackColor">255, 255, 255</Property>
+    <Property name="ClientSize">200, 22</Property>
+    <Property name="Location">0, 2</Property>
+    <Property name="Text">item</Property>
+    <Property name="DataBindings">
+      <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+    </Property>
+    <Property name="Name">custompanel1</Property>
+  </Object>

@@ -1,5 +1,6 @@
 ﻿var app = {
 page : "index/index",
+//page : "uart/uart",
 
     /* app 加载完成触发该函数 */
     onLaunch:function(){

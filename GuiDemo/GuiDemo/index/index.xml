@@ -15,7 +15,7 @@
         </property>
         <property name="rect">
           <x>31</x>
-          <y>178</y>
+          <y>170</y>
           <width>419</width>
           <height>22</height>
         </property>
@@ -68,9 +68,9 @@
         </property>
         <property name="rect">
           <x>20</x>
-          <y>106</y>
+          <y>100</y>
           <width>440</width>
-          <height>60</height>
+          <height>70</height>
         </property>
         <property name="background">
           <a>0</a>

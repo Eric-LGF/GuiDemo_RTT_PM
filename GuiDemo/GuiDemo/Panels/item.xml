@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rtgui version="1.0">
+  <widget class="Panel" name="item">
+    <property name="background">
+      <a>255</a>
+      <r>255</r>
+      <g>255</g>
+      <b>255</b>
+    </property>
+    <property name="rect">
+      <x>0</x>
+      <y>0</y>
+      <width>200</width>
+      <height>22</height>
+    </property>
+    <widgets>
+      <widget name="label1" class="label">
+        <property name="text">
+          <string>label1</string>
+        </property>
+        <property name="rect">
+          <x>2</x>
+          <y>1</y>
+          <width>172</width>
+          <height>20</height>
+        </property>
+        <property name="align">
+          <enum>RTGUI_ALIGN_LEFT | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+        </property>
+        <property name="background">
+          <a>255</a>
+          <r>255</r>
+          <g>255</g>
+          <b>255</b>
+        </property>
+      </widget>
+      <widget name="imagebox1" class="imagebox">
+        <property name="rect">
+          <x>176</x>
+          <y>1</y>
+          <width>20</width>
+          <height>20</height>
+        </property>
+        <property name="background">
+          <a>255</a>
+          <r>255</r>
+          <g>255</g>
+          <b>255</b>
+        </property>
+      </widget>
+    </widgets>
+  </widget>
+</rtgui>

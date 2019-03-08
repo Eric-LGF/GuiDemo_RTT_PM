@@ -96,3 +96,170 @@
 [0221/141856.073:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
 [0221/142245.859:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
 [0221/142801.894:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///D:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/194022.801:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0304/194022.818:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0304/194023.110:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0304/194023.211:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.212:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.212:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.221:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.222:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.222:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.222:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194023.222:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194026.648:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194026.648:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194026.809:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0304/194026.809:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0304/194026.849:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0304/194026.849:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0304/194029.252:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/194029.252:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/194038.227:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0304/194038.227:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0304/194100.090:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/194718.117:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194718.117:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/194718.180:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0304/194718.181:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0304/194719.067:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/194719.067:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/200706.074:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/200748.304:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/200922.639:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/200953.732:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/200953.732:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/200953.796:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0304/200953.796:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0304/200954.687:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/200954.687:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/201423.263:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/201822.605:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/202243.461:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/205728.261:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/210652.977:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/210658.256:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/210658.256:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0304/210658.321:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0304/210658.321:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0304/210659.182:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/210659.182:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/210740.628:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/211032.219:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0304/211039.954:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/101616.329:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0308/101616.339:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0308/101616.690:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0308/101616.850:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.869:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.869:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.879:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.889:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.889:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.889:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101616.889:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101618.279:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101618.279:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/101618.375:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0308/101618.375:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0308/101618.395:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0308/101618.395:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0308/101621.169:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/101621.169:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/101631.850:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0308/101631.850:ERROR:main_delegate.cc(714)] Could not load locale pak for zh-CN
+[0308/102224.507:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/102229.867:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/103443.574:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/104105.596:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/105729.637:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/122922.414:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0308/131954.947:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/135619.993:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/140145.515:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/143413.804:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/143413.804:WARNING:resource_bundle.cc(576)] locale resources are not loaded
+[0308/143413.871:WARNING:resource_bundle.cc(358)] locale_file_path.empty() for locale 
+[0308/143413.871:ERROR:main_delegate.cc(714)] Could not load locale pak for en-US
+[0308/143414.470:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/143414.470:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/143917.977:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/144113.051:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/145203.575:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/145407.326:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/145919.946:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/150517.319:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/151850.553:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)
+[0308/153221.353:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/base/worker/workerMain.js#javascript' cannot be accessed from origin 'null'.", source: file:///H:/Program%20Files%20(x86)/PersimmonUIBuilder/Monaco/vs/editor/editor.main.js (253)

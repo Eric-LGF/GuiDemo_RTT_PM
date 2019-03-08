@@ -1,5 +1,124 @@
 
   <Object type="Library.page, Library, Version=1.0.6983.32488, Culture=neutral, PublicKeyToken=null" name="page1" children="Controls">
+    <Object type="Library.button, Library, Version=1.0.6983.32488, Culture=neutral, PublicKeyToken=null" name="btn_join" children="Controls">
+      <Property name="PmWidget">
+        <Property name="Align">MiddleCenter</Property>
+        <Property name="font">点阵</Property>
+        <Property name="FontSize">16</Property>
+        <Property name="Opacity">255</Property>
+        <Property name="PathBackImage">
+        </Property>
+        <Property name="Visibled">False</Property>
+        <Property name="X">44</Property>
+        <Property name="Y">146</Property>
+        <Property name="_Height">30</Property>
+        <Property name="_Name">btn_join</Property>
+        <Property name="_Width">80</Property>
+        <Property name="BkColor">255, 212, 208, 200</Property>
+        <Property name="FrColor">255,0,0,0</Property>
+      </Property>
+      <Property name="LongPress">False</Property>
+      <Property name="longPressMs">100</Property>
+      <Property name="longPressOnce">False</Property>
+      <Property name="Value">join</Property>
+      <Property name="Pressed_image">
+        <Binary>AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19vcmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhwb3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgBAQEBCQIAAAAAAAAA+QAAAPkAAAAAAQAAAQEBAQoPAgAAAAABAAACiVBORw0KGgoAAAANSUhEUgAAACAAAAAWCAYAAAChWZ5EAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABh0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMS41ZEdYUgAAAHdJREFUSEvtlrENwDAIBJmAMdJ5dM9InhincEgXTApeugrkf0tIQC+SIHyJoHYIgwY6kCD0bfXgy/PWMI80XlEvNndopPIaI2nmDu39/aSbO4bDb4jHBtMv7qACVIAKUAEqgAVIX0a/WMe5B0n+SfbUHJCvWUR0AhKvOdwrg5ocAAAAAElFTkSuQmCCAAAAAAAAAAs=</Binary>
+      </Property>
+      <Property name="Unpressed_image">
+        <Binary>AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19vcmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhwb3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgBAQEBCQIAAAAAAAAACQEAAAkBAAAJAQAAAQEBAQoPAgAAAAkBAAACiVBORw0KGgoAAAANSUhEUgAAACAAAAAWCAYAAAChWZ5EAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAABh0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMS41ZEdYUgAAAIdJREFUSEvtllEOgCAMQ7mQd+Ge/HK/uWIxkeyTMT/W5MXACC1ihGJJRMZjJ5zTForgalKVrogTmLtOv1c09zRe6Z8A2oGVWwM9qbQfAU6uftKHOV+/NcCduQ1m8QTwzgAZIANkgPgAf/gVxx5GkDZij2NuQ9yFBA2GiLmSrWLx+Uo3YRuWcgO/DvJvedGTZAAAAABJRU5ErkJgggs=</Binary>
+      </Property>
+      <Property name="PathPressed_image">btn_sel.9.png</Property>
+      <Property name="PathUnpressed_image">btn_nor.9.png</Property>
+      <Property name="BindTap">onBtn</Property>
+      <Property name="AllowDrop">True</Property>
+      <Property name="BackColor">212, 208, 200</Property>
+      <Property name="BackgroundImageLayout">Center</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Location">44, 146</Property>
+      <Property name="Name">btn_join</Property>
+      <Property name="Size">80, 30</Property>
+      <Property name="TabIndex">5</Property>
+    </Object>
+    <Object type="Library.button, Library, Version=1.0.6983.32488, Culture=neutral, PublicKeyToken=null" name="btn_scan" children="Controls">
+      <Property name="PmWidget">
+        <Property name="Align">MiddleCenter</Property>
+        <Property name="font">点阵</Property>
+        <Property name="FontSize">16</Property>
+        <Property name="Opacity">255</Property>
+        <Property name="PathBackImage">
+        </Property>
+        <Property name="Visibled">False</Property>
+        <Property name="X">45</Property>
+        <Property name="Y">82</Property>
+        <Property name="_Height">30</Property>
+        <Property name="_Name">btn_scan</Property>
+        <Property name="_Width">80</Property>
+        <Property name="BkColor">255, 212, 208, 200</Property>
+        <Property name="FrColor">255,0,0,0</Property>
+      </Property>
+      <Property name="LongPress">False</Property>
+      <Property name="longPressMs">100</Property>
+      <Property name="longPressOnce">False</Property>
+      <Property name="Value">scan</Property>
+      <Property name="Pressed_image">
+        <Binary>AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19vcmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhwb3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgBAQEBCQIAAAAAAAAA+QAAAPkAAAAAAQAAAQEBAQoPAgAAAAABAAACiVBORw0KGgoAAAANSUhEUgAAACAAAAAWCAYAAAChWZ5EAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABh0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMS41ZEdYUgAAAHdJREFUSEvtlrENwDAIBJmAMdJ5dM9InhincEgXTApeugrkf0tIQC+SIHyJoHYIgwY6kCD0bfXgy/PWMI80XlEvNndopPIaI2nmDu39/aSbO4bDb4jHBtMv7qACVIAKUAEqgAVIX0a/WMe5B0n+SfbUHJCvWUR0AhKvOdwrg5ocAAAAAElFTkSuQmCCAAAAAAAAAAs=</Binary>
+      </Property>
+      <Property name="Unpressed_image">
+        <Binary>AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19vcmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhwb3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgBAQEBCQIAAAAAAAAACQEAAAkBAAAJAQAAAQEBAQoPAgAAAAkBAAACiVBORw0KGgoAAAANSUhEUgAAACAAAAAWCAYAAAChWZ5EAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAABh0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMS41ZEdYUgAAAIdJREFUSEvtllEOgCAMQ7mQd+Ge/HK/uWIxkeyTMT/W5MXACC1ihGJJRMZjJ5zTForgalKVrogTmLtOv1c09zRe6Z8A2oGVWwM9qbQfAU6uftKHOV+/NcCduQ1m8QTwzgAZIANkgPgAf/gVxx5GkDZij2NuQ9yFBA2GiLmSrWLx+Uo3YRuWcgO/DvJvedGTZAAAAABJRU5ErkJgggs=</Binary>
+      </Property>
+      <Property name="PathPressed_image">btn_sel.9.png</Property>
+      <Property name="PathUnpressed_image">btn_nor.9.png</Property>
+      <Property name="BindTap">onBtn</Property>
+      <Property name="AllowDrop">True</Property>
+      <Property name="BackColor">212, 208, 200</Property>
+      <Property name="BackgroundImageLayout">Center</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="Location">45, 82</Property>
+      <Property name="Name">btn_scan</Property>
+      <Property name="Size">80, 30</Property>
+      <Property name="TabIndex">4</Property>
+    </Object>
+    <Object type="Library.listctrl, Library, Version=1.0.6983.32488, Culture=neutral, PublicKeyToken=null" name="listctrl1" children="Controls">
+      <Property name="PmWidget">
+        <Property name="Align">TopLeft</Property>
+        <Property name="font">点阵</Property>
+        <Property name="FontSize">16</Property>
+        <Property name="Opacity">255</Property>
+        <Property name="PathBackImage">
+        </Property>
+        <Property name="Visibled">False</Property>
+        <Property name="X">280</Property>
+        <Property name="Y">1</Property>
+        <Property name="_Height">270</Property>
+        <Property name="_Name">listctrl1</Property>
+        <Property name="_Width">200</Property>
+        <Property name="BkColor">255,244,244,244</Property>
+        <Property name="FrColor">255,0,0,0</Property>
+      </Property>
+      <Property name="BindChange" />
+      <Property name="BindTap" />
+      <Property name="itemGap">1</Property>
+      <Property name="Orient">垂直</Property>
+      <Property name="AutoScroll">True</Property>
+      <Property name="AllowDrop">True</Property>
+      <Property name="BackColor">244, 244, 244</Property>
+      <Property name="BackgroundImageLayout">Center</Property>
+      <Property name="DataBindings">
+        <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+      </Property>
+      <Property name="ForeColor">0, 0, 0</Property>
+      <Property name="Location">280, 1</Property>
+      <Property name="Name">listctrl1</Property>
+      <Property name="Size">200, 270</Property>
+      <Property name="TabIndex">3</Property>
+      <Property name="Tag">
+        <Binary>AAEAAAD/////AQAAAAAAAAAEAQAAAH9TeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24GAAAICAkCAAAAAAAAAAAAAAARAgAAAAAAAAAL</Binary>
+      </Property>
+    </Object>
     <Object type="Library.button, Library, Version=1.0.6983.32488, Culture=neutral, PublicKeyToken=null" name="button1" children="Controls">
       <Property name="PmWidget">
         <Property name="Align">MiddleCenter</Property>
@@ -9,12 +128,12 @@
         <Property name="PathBackImage">
         </Property>
         <Property name="Visibled">False</Property>
-        <Property name="X">382</Property>
-        <Property name="Y">34</Property>
+        <Property name="X">198</Property>
+        <Property name="Y">10</Property>
         <Property name="_Height">30</Property>
         <Property name="_Name">button1</Property>
         <Property name="_Width">80</Property>
-        <Property name="BkColor">255, 212, 208, 200</Property>
+        <Property name="BkColor">255,212,208,200</Property>
         <Property name="FrColor">255,0,0,0</Property>
       </Property>
       <Property name="LongPress">False</Property>
@@ -36,7 +155,8 @@
       <Property name="DataBindings">
         <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
       </Property>
-      <Property name="Location">382, 34</Property>
+      <Property name="ForeColor">Black</Property>
+      <Property name="Location">198, 10</Property>
       <Property name="Name">button1</Property>
       <Property name="Size">80, 30</Property>
       <Property name="TabIndex">2</Property>
@@ -50,12 +170,12 @@
         <Property name="PathBackImage">
         </Property>
         <Property name="Visibled">False</Property>
-        <Property name="X">79</Property>
-        <Property name="Y">57</Property>
+        <Property name="X">16</Property>
+        <Property name="Y">14</Property>
         <Property name="_Height">22</Property>
         <Property name="_Name">label1</Property>
         <Property name="_Width">213</Property>
-        <Property name="BkColor">255, 212, 208, 200</Property>
+        <Property name="BkColor">255,212,208,200</Property>
         <Property name="FrColor">255,0,0,0</Property>
       </Property>
       <Property name="Textd">Wifi</Property>
@@ -65,7 +185,8 @@
       <Property name="DataBindings">
         <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
       </Property>
-      <Property name="Location">79, 57</Property>
+      <Property name="ForeColor">Black</Property>
+      <Property name="Location">16, 14</Property>
       <Property name="Name">label1</Property>
       <Property name="Size">213, 22</Property>
       <Property name="TabIndex">1</Property>
@@ -93,12 +214,15 @@
       <Property name="_Height">272</Property>
       <Property name="_Name">wifi</Property>
       <Property name="_Width">480</Property>
-      <Property name="BkColor">255, 212, 208, 200</Property>
+      <Property name="BkColor">255,212,208,200</Property>
       <Property name="FrColor">255,0,0,0</Property>
     </Property>
+    <Property name="BackColor">212, 208, 200</Property>
     <Property name="ClientSize">480, 272</Property>
+    <Property name="Location">15, 15</Property>
     <Property name="DataBindings">
       <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
     </Property>
+    <Property name="ForeColor">Black</Property>
     <Property name="Name">page1</Property>
   </Object>

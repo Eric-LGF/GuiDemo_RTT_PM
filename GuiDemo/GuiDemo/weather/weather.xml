@@ -2,10 +2,208 @@
 <rtgui version="1.0">
   <class>Page</class>
   <widget class="Page" name="weather">
+    <property name="background">
+      <a>255</a>
+      <r>255</r>
+      <g>255</g>
+      <b>255</b>
+    </property>
     <widgets>
-      <widget name="button1" class="button" bindtap="onTap">
+      <widget name="panel1" class="panel">
+        <property name="rect">
+          <x>0</x>
+          <y>0</y>
+          <width>40</width>
+          <height>272</height>
+        </property>
+        <property name="background">
+          <a>255</a>
+          <r>128</r>
+          <g>128</g>
+          <b>128</b>
+        </property>
+        <widgets>
+          <widget name="animatedImage1" class="animatedImage">
+            <property name="loop" />
+            <property name="interval">
+              <number>100</number>
+            </property>
+            <property name="images">
+              <image>refresh0.png</image>
+              <image>refresh1.png</image>
+              <image>refresh2.png</image>
+              <image>refresh3.png</image>
+            </property>
+            <property name="rect">
+              <x>10</x>
+              <y>210</y>
+              <width>20</width>
+              <height>20</height>
+            </property>
+            <property name="background">
+              <a>0</a>
+              <r>212</r>
+              <g>208</g>
+              <b>200</b>
+            </property>
+          </widget>
+          <widget name="panel_s" class="panel">
+            <property name="rect">
+              <x>0</x>
+              <y>80</y>
+              <width>40</width>
+              <height>40</height>
+            </property>
+            <property name="background">
+              <a>255</a>
+              <r>128</r>
+              <g>128</g>
+              <b>128</b>
+            </property>
+            <widgets>
+              <widget name="btn_S" class="button" bindtap="onBtn">
+                <property name="text">
+                  <string>S</string>
+                </property>
+                <property name="norImg">
+                  <string>btn_nor.9.png</string>
+                </property>
+                <property name="downImg">
+                  <string>btn_sel.9.png</string>
+                </property>
+                <property name="rect">
+                  <x>8</x>
+                  <y>88</y>
+                  <width>25</width>
+                  <height>25</height>
+                </property>
+                <property name="align">
+                  <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+                </property>
+                <property name="background">
+                  <a>0</a>
+                  <r>212</r>
+                  <g>208</g>
+                  <b>200</b>
+                </property>
+              </widget>
+            </widgets>
+          </widget>
+          <widget name="panel_W" class="panel">
+            <property name="rect">
+              <x>0</x>
+              <y>40</y>
+              <width>40</width>
+              <height>40</height>
+            </property>
+            <property name="background">
+              <a>255</a>
+              <r>128</r>
+              <g>128</g>
+              <b>128</b>
+            </property>
+            <widgets>
+              <widget name="btn_W" class="button" bindtap="onBtn">
+                <property name="text">
+                  <string>W</string>
+                </property>
+                <property name="norImg">
+                  <string>btn_nor.9.png</string>
+                </property>
+                <property name="downImg">
+                  <string>btn_sel.9.png</string>
+                </property>
+                <property name="rect">
+                  <x>8</x>
+                  <y>48</y>
+                  <width>25</width>
+                  <height>25</height>
+                </property>
+                <property name="align">
+                  <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+                </property>
+                <property name="background">
+                  <a>0</a>
+                  <r>212</r>
+                  <g>208</g>
+                  <b>200</b>
+                </property>
+              </widget>
+            </widgets>
+          </widget>
+          <widget name="panel_T" class="panel">
+            <property name="rect">
+              <x>0</x>
+              <y>0</y>
+              <width>40</width>
+              <height>40</height>
+            </property>
+            <property name="background">
+              <a>255</a>
+              <r>128</r>
+              <g>128</g>
+              <b>128</b>
+            </property>
+            <widgets>
+              <widget name="btn_T" class="button" bindtap="onBtn">
+                <property name="text">
+                  <string>T</string>
+                </property>
+                <property name="norImg">
+                  <string>btn_nor.9.png</string>
+                </property>
+                <property name="downImg">
+                  <string>btn_sel.9.png</string>
+                </property>
+                <property name="rect">
+                  <x>8</x>
+                  <y>8</y>
+                  <width>25</width>
+                  <height>25</height>
+                </property>
+                <property name="align">
+                  <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+                </property>
+                <property name="background">
+                  <a>0</a>
+                  <r>212</r>
+                  <g>208</g>
+                  <b>200</b>
+                </property>
+              </widget>
+            </widgets>
+          </widget>
+          <widget name="btn_exit" class="button" bindtap="onBtn">
+            <property name="text">
+              <string>X</string>
+            </property>
+            <property name="norImg">
+              <string>btn_nor.9.png</string>
+            </property>
+            <property name="downImg">
+              <string>btn_sel.9.png</string>
+            </property>
+            <property name="rect">
+              <x>8</x>
+              <y>242</y>
+              <width>25</width>
+              <height>25</height>
+            </property>
+            <property name="align">
+              <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+            </property>
+            <property name="background">
+              <a>0</a>
+              <r>212</r>
+              <g>208</g>
+              <b>200</b>
+            </property>
+          </widget>
+        </widgets>
+      </widget>
+      <widget name="button_get" class="button" bindtap="onGet">
         <property name="text">
-          <string>back</string>
+          <string>get</string>
         </property>
         <property name="norImg">
           <string>btn_nor.9.png</string>
@@ -14,24 +212,39 @@
           <string>btn_sel.9.png</string>
         </property>
         <property name="rect">
-          <x>377</x>
-          <y>44</y>
-          <width>80</width>
-          <height>30</height>
+          <x>392</x>
+          <y>239</y>
+          <width>72</width>
+          <height>25</height>
         </property>
         <property name="align">
           <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
         </property>
+        <property name="background">
+          <a>0</a>
+          <r>212</r>
+          <g>208</g>
+          <b>200</b>
+        </property>
       </widget>
       <widget name="label1" class="label">
         <property name="text">
-          <string>Weather</string>
+          <string>天气预报</string>
         </property>
         <property name="rect">
-          <x>63</x>
-          <y>43</y>
-          <width>201</width>
+          <x>46</x>
+          <y>10</y>
+          <width>418</width>
           <height>22</height>
+        </property>
+        <property name="align">
+          <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+        </property>
+        <property name="background">
+          <a>0</a>
+          <r>212</r>
+          <g>208</g>
+          <b>200</b>
         </property>
       </widget>
     </widgets>

@@ -3,6 +3,66 @@
   <class>Page</class>
   <widget class="Page" name="wifi">
     <widgets>
+      <widget name="btn_join" class="button" bindtap="onBtn">
+        <property name="text">
+          <string>join</string>
+        </property>
+        <property name="norImg">
+          <string>btn_nor.9.png</string>
+        </property>
+        <property name="downImg">
+          <string>btn_sel.9.png</string>
+        </property>
+        <property name="rect">
+          <x>44</x>
+          <y>146</y>
+          <width>80</width>
+          <height>30</height>
+        </property>
+        <property name="align">
+          <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+        </property>
+      </widget>
+      <widget name="btn_scan" class="button" bindtap="onBtn">
+        <property name="text">
+          <string>scan</string>
+        </property>
+        <property name="norImg">
+          <string>btn_nor.9.png</string>
+        </property>
+        <property name="downImg">
+          <string>btn_sel.9.png</string>
+        </property>
+        <property name="rect">
+          <x>45</x>
+          <y>82</y>
+          <width>80</width>
+          <height>30</height>
+        </property>
+        <property name="align">
+          <enum>RTGUI_ALIGN_CENTER_HORIZONTAL | RTGUI_ALIGN_CENTER_VERTICAL</enum>
+        </property>
+      </widget>
+      <widget name="listctrl1" class="listctrl">
+        <property name="direction">
+          <enum>VERTICAL</enum>
+        </property>
+        <property name="gap">
+          <number>1</number>
+        </property>
+        <property name="rect">
+          <x>280</x>
+          <y>1</y>
+          <width>200</width>
+          <height>270</height>
+        </property>
+        <property name="background">
+          <a>255</a>
+          <r>244</r>
+          <g>244</g>
+          <b>244</b>
+        </property>
+      </widget>
       <widget name="button1" class="button" bindtap="onTap">
         <property name="text">
           <string>back</string>
@@ -14,8 +74,8 @@
           <string>btn_sel.9.png</string>
         </property>
         <property name="rect">
-          <x>382</x>
-          <y>34</y>
+          <x>198</x>
+          <y>10</y>
           <width>80</width>
           <height>30</height>
         </property>
@@ -28,8 +88,8 @@
           <string>Wifi</string>
         </property>
         <property name="rect">
-          <x>79</x>
-          <y>57</y>
+          <x>16</x>
+          <y>14</y>
           <width>213</width>
           <height>22</height>
         </property>
